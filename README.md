@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Linqui 
 
-这是一个[Linqui](https://lingui.dev/ref/react)的demo，demo的时候，参考了官方提供的(Example)[https://github.com/lingui/js-lingui/tree/main/examples/create-react-app]
+这是一个[Linqui](https://lingui.dev/ref/react)的demo，demo的时候，参考了官方提供的[Example](https://github.com/lingui/js-lingui/tree/main/examples/create-react-app) 
